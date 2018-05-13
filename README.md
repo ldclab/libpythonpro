@@ -7,4 +7,4 @@ Repositório para treinamento git
 - Pull Request
 - Feature Branch
 - Conflitos
-- Gitignore
+- Arquivo Gitignore
