@@ -1,2 +1,2 @@
 # libpythonpro
-Repositório para treinamnto git
+Repositório para treinamento git
