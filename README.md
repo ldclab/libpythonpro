@@ -1,10 +1,14 @@
 # libpythonpro
-Repositório para treinamento git
+Módulo para exemplificar a contrução de projetos Python no curso Pytools
 
-- Criação de repositórios
-- Chaves SSH
-- Fork
-- Pull Request
-- Feature Branch
-- Conflitos
-- Arquivo Gitignore
+Nesse curso é ensinado como contribuir com projetos de código aberto
+
+Link para o curso: [Python Pro](#)
+
+Suportada versão 3 do Python
+
+Tópicos do Curso
+
+- Git
+- Virtualenv
+- Pip
