@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Link para o curso: [Python Pro](#)
 
 [![Build Status](https://travis-ci.org/ldclab/libpythonpro.svg?branch=master)](https://travis-ci.org/ldclab/libpythonpro)
+[![Updates](https://pyup.io/repos/github/ldclab/libpythonpro/shield.svg)](https://pyup.io/repos/github/ldclab/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/ldclab/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/ldclab/libpythonpro/)
 
 Suportada versão 3 do Python
 
