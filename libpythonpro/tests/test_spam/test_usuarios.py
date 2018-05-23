@@ -16,7 +16,3 @@ def test_listar_usuario(sessao):
     for usuario in usuarios:
         sessao.salvar(usuario)
     assert usuarios == sessao.listar()
-
-
-
-
